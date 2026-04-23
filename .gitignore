@@ -1,8 +1,0 @@
-# Ignore selected notebook file
-Unemployment_Analysis/main.ipynb
-
-# Common Python artifacts
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-.DS_Store
