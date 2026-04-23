@@ -1,23 +1,29 @@
-# Unemployment Analysis with Python
+# 📊 Unemployment Analysis with Python
+### CodeAlpha Data Science Internship — Task 2
 
-This project analyzes unemployment data in India using Python.
+## 🎯 Objective
+Analyze unemployment trends in India, investigate the impact of COVID-19 on unemployment rates, identify seasonal patterns, and provide policy recommendations.
 
-## Files
+## 📁 Files
+- `Unemployment_Analysis_with_python.ipynb` — Main analysis notebook
+- `Unemployment in India.csv` — Primary dataset
+- `Unemployment_Rate_upto_11_2020.csv` — Additional dataset
 
-- `Unemployment in India.csv`: Dataset containing unemployment data.
-- `Unemployment_Analysis_with_python.ipynb`: Jupyter notebook with the analysis.
-- `Unemployment_Rate_upto_11_2020.csv`: Additional unemployment rate data up to November 2020.
+## 🛠️ Libraries Used
+pandas, numpy, matplotlib, seaborn, plotly
 
-## Requirements
+## 📊 Key Findings
+- Unemployment spiked sharply in **April–May 2020** due to COVID-19 lockdowns
+- Average unemployment jumped from **9.40%** (pre-COVID) to **15.10%** (COVID era)
+- Some states consistently show higher unemployment — regional imbalance exists
+- Seasonal patterns visible in Q1 and Q2 months
+- Gradual recovery visible post-2020 but not back to pre-COVID levels
 
-- Python 3.x
-- Jupyter Notebook
-- Libraries: pandas, matplotlib, seaborn, etc. (check the notebook for specifics)
+## ▶️ How to Run
+```bash
+pip install pandas numpy matplotlib seaborn plotly
+```
+Open `Unemployment_Analysis_with_python.ipynb` in Jupyter Notebook and run all cells.
 
-## Usage
-
-Open the Jupyter notebook and run the cells to perform the analysis.
-
-## License
-
-[Add license if applicable]
+## 👩‍💻 Author
+Isha Kanani | CodeAlpha Data Science Intern
